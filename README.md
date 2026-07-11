@@ -25,7 +25,7 @@ A modern and professional Language Translation Web App built using **Python**, *
 ## 📂 Project Structure
 
 ```
-CodeAlpha_LanguageTranslator/
+CodeAlpha_LanguageTranslatorTool/
 │── app.py
 │── style.css
 │── requirements.txt
@@ -37,13 +37,13 @@ CodeAlpha_LanguageTranslator/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_LanguageTranslator.git
+git clone https://github.com/Iamanisha-coder/CodeAlpha_LanguageTranslatorTool.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd CodeAlpha_LanguageTranslator
+cd CodeAlpha_LanguageTranslatorTool
 ```
 
 ### Install dependencies
