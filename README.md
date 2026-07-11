@@ -37,7 +37,7 @@ CodeAlpha_LanguageTranslatorTool/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Iamanisha-coder/CodeAlpha_LanguageTranslatorTool.git
+git clone https://github.com/Iamanisha-coder/LanguageTranslatorTool.git
 ```
 
 ### Navigate to the project
